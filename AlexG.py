@@ -7,4 +7,5 @@ Created on Thu Nov 10 01:15:22 2022
 
 print("Oi Ichigo")
 
+print("Something else")
 print("hello world")
